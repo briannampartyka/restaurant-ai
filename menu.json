@@ -1,0 +1,20 @@
+[
+  {
+    "dish_name": "Creamy Truffle Mushroom Risotto",
+    "price": 21,
+    "description": "A rich vegetarian risotto made with arborio rice, wild mushrooms, and white truffle oil.",
+    "ingredients": ["arborio rice", "cremini mushrooms", "vegetable broth", "heavy cream", "parmesan", "truffle oil", "white wine", "shallots", "butter", "salt", "black pepper"],
+    "dietary_info": {
+      "vegetarian": true,
+      "vegan": false,
+      "gluten_free": true,
+      "dairy_free": false
+    },
+    "substitutions": {
+      "dairy": {
+        "available": true,
+        "method": "oat milk and nutritional yeast"
+      }
+    }
+  }
+]
